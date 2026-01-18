@@ -1,0 +1,90 @@
+Parasite
+Bong Joon-ho
+2019
+Inception
+Christopher Nolan
+2010
+Get Out
+Jordan Peele
+2017
+Pulp Fiction
+Quentin Tarantino
+1994
+La La Land
+Damien Chazelle
+2016
+The Godfather
+Francis Ford Coppola
+1972
+Whiplash
+Damien Chazelle
+2014
+Spirited Away
+Hayao Miyazaki
+2001
+Amélie
+Jean-Pierre Jeunet
+2001
+The Dark Knight
+Christopher Nolan
+2008
+Fight Club
+David Fincher
+1999
+The Matrix
+Lana & Lilly Wachowski
+1999
+Moonlight
+Barry Jenkins
+2016
+Titanic
+James Cameron
+1997
+Her
+Spike Jonze
+2013
+Gladiator
+Ridley Scott
+2000
+The Prestige
+Christopher Nolan
+2006
+Memento
+Christopher Nolan
+2000
+Mad Max: Fury Road
+George Miller
+2015
+Jaws
+Steven Spielberg
+1975
+Blade Runner
+Ridley Scott
+1982
+Joker
+Todd Phillips
+2019
+Django Unchained
+Quentin Tarantino
+2012
+Gravity
+Alfonso Cuarón
+2013
+Logan
+James Mangold
+2017
+Oldboy
+Park Chan-wook
+2003
+Shrek
+Andrew Adamson
+2001
+The Pianist
+Roman Polanski
+2002
+No Country for Old Men
+Coen Brothers
+2007
+Black Swan
+Darren Aronofsky
+2010

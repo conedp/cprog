@@ -1,0 +1,1 @@
+./func_tests/data/neg_08_in.txt ./out/neg_08_out.txt.temp g

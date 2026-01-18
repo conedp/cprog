@@ -1,0 +1,45 @@
+Moonlight
+Barry Jenkins
+2016
+Parasite
+Bong Joon-ho
+2019
+Inception
+Christopher Nolan
+2010
+The Dark Knight
+Christopher Nolan
+2008
+La La Land
+Damien Chazelle
+2016
+Whiplash
+Damien Chazelle
+2014
+Fight Club
+David Fincher
+1999
+The Godfather
+Francis Ford Coppola
+1972
+Spirited Away
+Hayao Miyazaki
+2001
+Titanic
+James Cameron
+1997
+Amélie
+Jean-Pierre Jeunet
+2001
+Get Out
+Jordan Peele
+2017
+The Matrix
+Lana & Lilly Wachowski
+1999
+Pulp Fiction
+Quentin Tarantino
+1994
+Her
+Spike Jonze
+2013

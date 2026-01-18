@@ -1,0 +1,24 @@
+Titanic
+James Cameron
+1997
+Parasite
+Bong Joon-ho
+2019
+Moonlight
+Barry Jenkins
+2016
+Memento
+Christopher Nolan
+2000
+Inception
+Christopher Nolan
+2010
+Her
+Spike Jonze
+2013
+Fight Club
+David Fincher
+1999
+Amélie
+Jean-Pierre Jeunet
+2001

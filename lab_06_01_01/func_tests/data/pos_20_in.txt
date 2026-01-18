@@ -1,0 +1,39 @@
+Memento
+Christopher Nolan
+2000
+Mad Max: Fury Road
+George Miller
+2015
+Jaws
+Steven Spielberg
+1975
+Blade Runner
+Ridley Scott
+1982
+Joker
+Todd Phillips
+2019
+Django Unchained
+Quentin Tarantino
+2012
+Gravity
+Alfonso Cuarón
+2013
+Logan
+James Mangold
+2017
+Oldboy
+Park Chan-wook
+2003
+Shrek
+Andrew Adamson
+2001
+The Pianist
+Roman Polanski
+2002
+No Country for Old Men
+Coen Brothers
+2007
+Black Swan
+Darren Aronofsky
+2010

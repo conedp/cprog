@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.gcno
+*.gcda
+.DS_Store
+*.temp
+*.gcov
